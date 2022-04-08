@@ -35,5 +35,7 @@ public class CustomerDTO {
 	private String addressType;
 	
 	private List<Book> cartBook;
+	
+	
 		
 }
